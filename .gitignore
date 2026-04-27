@@ -24,5 +24,4 @@ Thumbs.db
 logs/
 
 # Secrets
-src/main/resources/application.properties
 .env
